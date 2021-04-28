@@ -34,7 +34,9 @@ final class RollDie {
 
       // Prints the random number
       System.out.println();
-      System.out.println(randomint);
+      System.out.println("The random number: " + randomint);
+      System.out.println();
+      System.out.println("Done");
 
     // Runs if number less than 1 was inputted
     } else {
