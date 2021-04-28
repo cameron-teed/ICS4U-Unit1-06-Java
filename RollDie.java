@@ -1,6 +1,7 @@
 /*
 * The RollDie program lets you create paramaters for a dice then
 * prints out the random number.
+*
 * @author  Cameron Teed
 * @version 1.0
 * @since   2020-04-28
